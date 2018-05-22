@@ -1,0 +1,1308 @@
+2015/02/15 13:17:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/left/button-left.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/left/button-left.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/buttons.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/buttons.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/right/button-right.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/right/button-right.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:25:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/right/button-right.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/right/button-right.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/buttons.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/buttons.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/15 13:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/left/button-left.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/new%20style/default/left/button-left.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:24:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/02/19 15:24:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/main.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 09:56:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/flexslider.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/flexslider....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/flexslider.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 09:56:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/bootstrap.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap/b...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/bootstrap/bootstrap.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 09:56:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/membership.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/membership....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/membership.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 09:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/buttons.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/buttons.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/right/button-right.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/right/button-right.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 09:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/left/button-left.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/default/left/button-left.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 10:25:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/bright kelly/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/lightweight/bright%20kelly/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 16:19:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/main.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 16:19:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/bootstrap.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap/b...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/bootstrap/bootstrap.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 16:19:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/flexslider.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/flexslider....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/flexslider.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 16:19:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/membership.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/membership....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/membership.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/04 16:21:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 16:21:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 16:21:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/04 16:21:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/flexslider.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/flexslider....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/flexslider.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/05 14:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/bootstrap.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap/b...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/bootstrap/bootstrap.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/05 14:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/main.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/05 14:50:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/membership.css".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('css/membership....')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/css/membership.css
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2015/03/05 14:51:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in /var/www/projects/yii-framework/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/projects/yii-framework/framework/web/CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 /var/www/projects/yii-framework/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/projects/support/funkyfresh/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/projects/support/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://192.168.1.200/projects/support/funkyfresh/classic
+---
+2018/05/22 20:25:28 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'ukpro'@'localhost' (using password: YES)' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\CDbConnection.php:381
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CModule.php(387): CDbConnection->init()
+#3 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(438): CModule->getComponent('db')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(623): CApplication->getDb()
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(User))
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('User')
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#9 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php(32): CActiveRecord->__construct()
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(281): FrontController->init()
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#12 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/
+HTTP_REFERER=http://localhost/Projects/ukpro/
+---
+2018/05/22 20:26:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap/bootstrap.css".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('css/bootstrap/b...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/css/bootstrap/bootstrap.css
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/
+---
+2018/05/22 20:26:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/flexslider.css".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('css/flexslider....')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/css/flexslider.css
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/
+---
+2018/05/22 20:26:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/main.css".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('css/main.css')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/css/main.css
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/
+---
+2018/05/22 20:26:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/membership.css".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('css/membership....')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/css/membership.css
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/
+---
+2018/05/22 20:26:32 [error] [php] Use of undefined constant maxWidth - assumed 'maxWidth' (C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\layouts\header.php:20)
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\widgets\CContentDecorator.php(76): HomeController->renderFile()
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(300): HomeController->endWidget()
+#5 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\layouts\main.php(3): HomeController->endContent()
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(95): HomeController->renderInternal()
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(784): HomeController->renderFile()
+#9 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php(37): HomeController->render()
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(49): HomeController->actionIndex()
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): HomeController->runAction()
+#13 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): HomeController->runActionWithFilters()
+#14 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): HomeController->run()
+#15 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(13): CWebApplication->run()
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/index
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\layouts\header.php (20)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\layouts\main.php (3)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php (37)
+2018/05/22 20:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/9362-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/93...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/9362-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/5372-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/53...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/5372-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/4198-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/41...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/4198-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:26:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/9362-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/93...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/9362-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:26:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/4198-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/41...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/4198-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:26:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/5372-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/53...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/5372-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/index
+---
+2018/05/22 20:27:06 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_category' in 'where clause'. The SQL statement executed was: SELECT * FROM `snap` `t` WHERE type=0 and sub_category=1.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\classic\leftside.php (240)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\ClassicController.php (40)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:27:06 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sub_category' in 'where clause'. The SQL statement executed was: SELECT * FROM `snap` `t` WHERE type=0 and sub_category=1' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\CDbCommand.php:541
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\views\classic\leftside.php(240): CActiveRecord->findAll(Array)
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(782): CController->renderPartial('leftside', Array, true)
+#8 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\ClassicController.php(40): CController->render('leftside', Array)
+#9 [internal function]: ClassicController->actionIndex(NULL, NULL, NULL)
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(ClassicController), Array)
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(ClassicController), Object(ReflectionMethod), Array)
+#12 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#14 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('')
+#16 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('classic')
+#17 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#19 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/classic
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/classic/1
+---
+2018/05/22 20:27:13 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weightsinfo')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weightsinf...')
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#7 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weightsinfo/undefined
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:27:13 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funky.height_detail' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `height_detail`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php (24)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php (158)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:27:13 [error] [exception.CDbException] exception 'CDbException' with message 'The table "height_detail" for active record class "HeightDetail" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(HeightDetail))
+#1 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php(24): CActiveRecord::model('HeightDetail')
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php(158): HeightDetail::model()
+#3 [internal function]: HomeController->actionWeights('1')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(HomeController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weights')
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weights')
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#12 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#13 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weights/1
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:27:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/9362-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/93...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/9362-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home
+---
+2018/05/22 20:27:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/5372-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/53...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/5372-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home
+---
+2018/05/22 20:27:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/banner/4198-img1.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/banner/41...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/banner/4198-img1.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home
+---
+2018/05/22 20:29:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php (32)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:29:01 [error] [exception.CDbException] exception 'CDbException' with message 'The table "user" for active record class "User" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(User))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('User')
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php(32): CActiveRecord->__construct()
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(281): FrontController->init()
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home')
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#7 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#8 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:29:02 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php (32)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:29:02 [error] [exception.CDbException] exception 'CDbException' with message 'The table "user" for active record class "User" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(User))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('User')
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php(32): CActiveRecord->__construct()
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(281): FrontController->init()
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home')
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#7 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#8 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:29:03 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php (32)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:29:03 [error] [exception.CDbException] exception 'CDbException' with message 'The table "user" for active record class "User" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(User))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(402): CActiveRecord::model('User')
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(77): CActiveRecord->getMetaData()
+#3 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\components\FrontController.php(32): CActiveRecord->__construct()
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(281): FrontController->init()
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home')
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#7 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#8 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:30:01 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weightsinfo')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weightsinf...')
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#7 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weightsinfo/undefined
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:30:01 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.height_detail' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `height_detail`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php (24)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php (158)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 20:30:01 [error] [exception.CDbException] exception 'CDbException' with message 'The table "height_detail" for active record class "HeightDetail" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(HeightDetail))
+#1 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php(24): CActiveRecord::model('HeightDetail')
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php(158): HeightDetail::model()
+#3 [internal function]: HomeController->actionWeights('1')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(HomeController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weights')
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weights')
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#12 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#13 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weights/1
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 20:30:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip-hidden.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/classic/default/zip-hidden.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:30:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/zip_hood.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/classic/default/zip_hood.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:30:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/sailor.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/classic/default/sailor.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:30:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/classic/default/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/classic/default/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/zip-hidden.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/zip-hidden.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/zip_hood.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/zip_hood.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/sailor.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/sailor.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/right/button-right.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/right/button-right.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/buttons.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/buttons.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/lightweight/default/left/button-left.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/lightweight/default/left/button-left.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/zip-hidden.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/zip-hidden.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/sailor.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/sailor.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/right/button-right.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/right/button-right.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/buttons.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/buttons.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/zip_hood.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/zip_hood.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 20:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/left/button-left.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/left/button-left.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/default/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/default/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:47:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/raglan/high royal/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/raglan/high%20royal/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:09 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#3 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weightsinfo')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weightsinf...')
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#7 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weightsinfo/undefined
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 21:48:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.height_detail' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `height_detail`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php (24)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php (158)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 21:48:09 [error] [exception.CDbException] exception 'CDbException' with message 'The table "height_detail" for active record class "HeightDetail" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(HeightDetail))
+#1 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php(24): CActiveRecord::model('HeightDetail')
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php(158): HeightDetail::model()
+#3 [internal function]: HomeController->actionWeights('1')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(HomeController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weights')
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weights')
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#12 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#13 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weights/1
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 21:48:14 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'funkyfresh.height_detail' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `height_detail`.
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php (24)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php (158)
+in C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php (20)
+2018/05/22 21:48:14 [error] [exception.CDbException] exception 'CDbException' with message 'The table "height_detail" for active record class "HeightDetail" cannot be found in the database.' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php:2310
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\db\ar\CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(HeightDetail))
+#1 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\models\HeightDetail.php(24): CActiveRecord::model('HeightDetail')
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\protected\controllers\HomeController.php(158): HeightDetail::model()
+#3 [internal function]: HomeController->actionWeights('3')
+#4 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(HomeController), Array)
+#5 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(HomeController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(282): CController->run('weights')
+#10 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('home/weights')
+#11 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#12 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#13 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/home/weights/3
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/home/mysize
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip-hidden.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/zip-hidden.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/zip_hood.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/zip_hood.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/sailor.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/sailor.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/right/button-right.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/right/button-right.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/top_zip.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/top_zip.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/buttons.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/buttons.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:48:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/types/classic/new style/default/left/button-left.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/types/cla...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/types/classic/new%20style/default/left/button-left.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/classic
+---
+2018/05/22 21:52:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/1423-20130329_144344.jpg".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/1423-2013...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/1423-20130329_144344.jpg
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
+2018/05/22 21:52:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/9627-Tulips.jpg".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/9627-Tuli...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/9627-Tulips.jpg
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
+2018/05/22 21:52:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/2877-tail1r.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/2877-tail...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/2877-tail1r.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
+2018/05/22 21:52:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/1423-20130329_144344.jpg".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/1423-2013...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/1423-20130329_144344.jpg
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
+2018/05/22 21:52:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/9627-Tulips.jpg".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/9627-Tuli...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/9627-Tulips.jpg
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
+2018/05/22 21:52:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "media/2877-tail1r.png".' in C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\web\CWebApplication.php(141): CWebApplication->runController('media/2877-tail...')
+#1 C:\xampp\htdocs\Projects\ukpro\yii-framework\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\Projects\ukpro\funkyfresh\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/Projects/ukpro/funkyfresh/media/2877-tail1r.png
+HTTP_REFERER=http://localhost/Projects/ukpro/funkyfresh/index.php/pages
+---
